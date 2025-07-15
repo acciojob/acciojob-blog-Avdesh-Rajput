@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body{
+	height:100%;
+	width:100%;
+}
+
+.heading{
+	text-align:center;
+}
+
+img{
+	width:200px;
+}
